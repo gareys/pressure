@@ -1,0 +1,28 @@
+{
+  "name": "pressure",
+  "version": "0.0.1",
+  "description": "An app for tracking barometric pressure variance and its correlation with pain",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:gareys/pressure.git"
+  },
+  "author": "Garey Simpson <webdesignator@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/gareys/pressure/issues"
+  },
+  "homepage": "https://github.com/gareys/pressure#readme",
+  "keywords": [
+    "barometric",
+    "barometer",
+    "atmostpheric",
+    "pressure",
+    "weather",
+    "dark sky",
+    "pain",
+    "variance",
+    "track",
+    "app"
+  ]
+}
